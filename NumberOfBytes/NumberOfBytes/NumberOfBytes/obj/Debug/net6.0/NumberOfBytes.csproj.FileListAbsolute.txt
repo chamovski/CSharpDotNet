@@ -1,0 +1,15 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\bin\Debug\net6.0\NumberOfBytes.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\bin\Debug\net6.0\NumberOfBytes.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\bin\Debug\net6.0\NumberOfBytes.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\bin\Debug\net6.0\NumberOfBytes.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\bin\Debug\net6.0\NumberOfBytes.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\refint\NumberOfBytes.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\NumberOfBytes.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\NumberOfBytes\NumberOfBytes\NumberOfBytes\obj\Debug\net6.0\ref\NumberOfBytes.dll

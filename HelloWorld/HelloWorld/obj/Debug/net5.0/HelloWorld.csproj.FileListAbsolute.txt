@@ -1,0 +1,16 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
