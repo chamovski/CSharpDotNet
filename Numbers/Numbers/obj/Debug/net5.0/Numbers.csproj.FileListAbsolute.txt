@@ -1,0 +1,16 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\bin\Debug\net5.0\Numbers.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\refint\Numbers.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Numbers\Numbers\obj\Debug\net5.0\ref\Numbers.dll
