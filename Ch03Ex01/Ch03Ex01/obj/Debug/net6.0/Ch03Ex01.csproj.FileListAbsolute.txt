@@ -1,0 +1,15 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\bin\Debug\net6.0\Ch03Ex01.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\refint\Ch03Ex01.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\Ch03Ex01.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\CSharpAndDotNet\Ch03Ex01\Ch03Ex01\obj\Debug\net6.0\ref\Ch03Ex01.dll
